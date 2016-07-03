@@ -1,0 +1,168 @@
+[23:07:53] [Kisei#7840] https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[23:07:54] [foxbot#0282] why is it dead
+[23:07:56] [foxbot#0282] just plug it in
+[23:07:56] [Kisei#7840] check that baby out
+[23:07:58] [foxbot#0282] and turn it on
+[23:07:58] [Concerned Hobbit#9354] And other commands should work, too
+[23:07:59] [foxbot#0282] ??
+[23:08:01] [Concerned Hobbit#9354] _test
+[23:08:03] [dec#8306] you can just .reply to a IMessage
+[23:08:06] [??#9976] wow 2 tutorials in one day th
+[23:08:07] [Fuyu#0588] maybe it got wind of java and keeled over
+[23:08:07] [??#9976] x
+[23:08:15] [Archangelx#4259] ... I mean like game server. The communty is dying ;-;
+[23:08:16] [Lucky_Evie#4611] Still just javascript not node.js. Nodebeginner is a little more... specific
+[23:08:20] [Connor68989#2359] https://gyazo.com/0335db56eb0de8c25a1a595f1f52fa4a
+[23:08:23] [gdude2002#5318] oh, I've been there
+[23:08:24] [Lucky_Evie#4611] Though it's based on making a website.
+[23:08:26] [Minn#6688] Can't believe you got that garbage running
+[23:08:28] [Fuyu#0588] what game
+[23:08:30] [Minn#6688] Ohhhh
+[23:08:32] [gdude2002#5318] minecraft?>
+[23:08:32] [Archangelx#4259] Vainglory ;-;
+[23:08:34] [Kisei#7840] node js is life
+[23:08:34] [Archangelx#4259] no...
+[23:08:35] [Fuyu#0588] what
+[23:08:37] [Archangelx#4259] what
+[23:08:39] [?? PikaPi ??#5870] what
+[23:08:40] [Minn#6688] Makes sense
+[23:08:41] [Roy#4890] I mean to use the Name of the sender inside a message that it looks like @dec
+[23:08:41] [Fuyu#0588] what
+[23:08:46] [Minn#6688] should be an easy fix
+[23:08:47] [?? PikaPi ??#5870] what what waht
+[23:08:47] [Connor68989#2359] i like getting things to run.
+[23:08:50] [gdude2002#5318] oh, it's a touch-based moba
+[23:08:52] [Archangelx#4259] Vainglory is a mobile MOBA (it's actually realy good)
+[23:08:52] [Panda#7924] `IUser#mention`
+[23:08:53] [??#9976] but i just want to make a bot
+[23:09:00] [Fuyu#0588] moba
+[23:09:01] [Fuyu#0588] ew
+[23:09:04] [Connor68989#2359] it was, all i had to to was add .toString()
+[23:09:05] [gdude2002#5318] not exactly a good target market for a community
+[23:09:07] [??#9976] i want to be able to grab first image from google search from user input
+[23:09:09] [Archangelx#4259] Moba... is like runescape...
+[23:09:11] [Minn#6688] tbh the version on github was probably better than my local one
+[23:09:12] [dec#8306] ?
+[23:09:13] [Lucky_Evie#4611] @Chloe there is not tutorial that will specifically help you write exactly the bot that you want to write.
+[23:09:13] [??#9976] and do those kind of cool things
+[23:09:16] [Archangelx#4259] but shorter
+[23:09:17] [Minn#6688] where i tried to fix it
+[23:09:19] [?? PikaPi ??#5870] like LoL
+[23:09:20] [gdude2002#5318] no, that's mmorpg
+[23:09:22] [Minn#6688] but broke it in the end
+[23:09:23] [Lucky_Evie#4611] ?ahh help
+[23:09:26] [gdude2002#5318] LoL or DOTA or Smite are MOBAs
+[23:09:29] [Lucky_Evie#4611] That's how you make a bot.
+[23:09:33] [gdude2002#5318] multiplayer online battle arena
+[23:09:34] [?? PikaPi ??#5870] yu[
+[23:09:34] [Connor68989#2359] >=say Ello Lads! im back
+[23:09:37] [??#9976] Failed at step 1
+[23:09:40] [Archangelx#4259] Think about it... you farm, get money, buy items, and pvp.
+[23:09:43] [Kisei#7840] to make a bot you need to be the bot
+[23:09:43] [acdenisSK ? ?#5503] i call my code cancer even if it does look perfect http://goo.gl/mrZ7e2
+[23:09:49] [??#9976] WOW
+[23:09:51] [Archangelx#4259] and level up ^
+[23:09:51] [OllysCoding#4627] But in Unity, you would NEVER have everything in one file, so why would you do that to an API for unity? ?
+[23:09:52] [?? PikaPi ??#5870] so it's MMORPG
+[23:09:53] [gdude2002#5318] all at the same time
+[23:09:55] [?? PikaPi ??#5870] not MOBA
+[23:09:56] [Crowdhopper#2459] You could say you tried to Minn-d it.
+[23:09:58] [Archangelx#4259] ikr lol
+[23:09:58] [gdude2002#5318] it's very condensed
+[23:09:59] [Lucky_Evie#4611] oooooh that's nice.
+[23:10:00] [Kisei#7840] `let`
+[23:10:00] [gdude2002#5318] no, it's definitely a moba
+[23:10:05] [Connor68989#2359] badum tsch
+[23:10:10] [gdude2002#5318] it is massively multiplayer, online, and an rpg
+[23:10:10] [??#9976] that doesn't remotely look like my stuff
+[23:10:14] [sponges#9409] m
+[23:10:14] [gdude2002#5318] moba is a subgenre
+[23:10:17] [acdenisSK ? ?#5503] that's mine
+[23:10:20] [Lucky_Evie#4611] It's just a big string....
+[23:10:20] [acdenisSK ? ?#5503] my system
+[23:10:22] [Kisei#7840] its simple and clean
+[23:10:23] [acdenisSK ? ?#5503] my thoughts
+[23:10:23] [Lucky_Evie#4611] like... easy
+[23:10:24] [?? PikaPi ??#5870] oh i didn't know sry
+[23:10:26] [Kisei#7840] but a big ass string
+[23:10:27] [Archangelx#4259] Vainglory is actually reviewed by MMO-Hut.
+[23:10:33] [Minn#6688] So, how is the whole brexit thing going for ya? I think you were british
+[23:10:41] [Connor68989#2359] i am.
+[23:10:45] [gdude2002#5318] they review like everything
+[23:10:47] [Lucky_Evie#4611] I mean sure there's map() and filter() in there, that makes it a little more than "just a string" ?
+[23:10:48] [??#9976] ur stuff is cooler
+[23:10:51] [Kisei#7840] just make an array and push everything in
+[23:10:57] [Minn#6688] Heard about the protests
+[23:10:57] [giggybyte#8273] @gdude.py figured out my stupid issue. i was splitting a string incorrectly because i forgot newline characters varied per OS
+[23:10:59] [Archangelx#4259] I though tit was only for like MMO stuff?
+[23:11:00] [Kisei#7840] that's what i do XD
+[23:11:06] [Lucky_Evie#4611] string concat is more performance than array.
+[23:11:07] [Minn#6688] Seems like they are upset about not voting
+[23:11:09] [gdude2002#5318] @giggybyte are you using perl?
+[23:11:10] [gdude2002#5318] :P
+[23:11:12] [Lucky_Evie#4611] I think
+[23:11:12] [acdenisSK ? ?#5503] ^
+[23:11:17] [gdude2002#5318] @Archangelx did you read what I said?
+[23:11:17] [Archangelx#4259] I code games with RPG maker because I'm incompetent.
+[23:11:22] [Connor68989#2359] imma just move to scotland when they go independant and go back into the eu ?
+[23:11:27] [giggybyte#8273] @gdude.py c#, but instead of using \r\n i was using \n alone
+[23:11:28] [sponges#9409] !
+[23:11:31] [Minn#6688] That's the spirit
+[23:11:31] [Kisei#7840] i know i know i should stop tbh
+[23:11:34] [Fuyu#0588] @<spong::&boy(DontFCKingmentionMe
+[23:11:37] [sponges#9409] AAAAAAAAAAAAAA
+[23:11:42] [Minn#6688] If you're still able to move ?
+[23:11:45] [gdude2002#5318] @<spong::&boy(DontFCKingmentionMe
+[23:11:48] [Archangelx#4259] @gdude.py my mistake. I assumed that you didn't know because you know... most people don't know.
+[23:11:50] [sponges#9409] DOntuKFIckmMENitomE
+[23:11:51] [Minn#6688] Who knows what will change
+[23:11:51] [?? PikaPi ??#5870] i use \n alone too but only because i use linux only :v
+[23:11:51] [giggybyte#8273] ho boy here we go again
+[23:11:51] [gdude2002#5318] @<spong::&boy(DontFCKingmentionMe ah, okay
+[23:11:58] [gdude2002#5318] @Archangelx been here for years
+[23:11:59] [gdude2002#5318] :P
+[23:12:00] [Fuyu#0588] DOnFUckeIngmEntnMe
+[23:12:01] [sponges#9409] lolxDDD
+[23:12:04] [acdenisSK ? ?#5503] welp http://goo.gl/ZA4qgj
+[23:12:05] [Connor68989#2359] i used to live in scotland anyways, now live in england
+[23:12:11] [Lord Ptolemy#0768] @<spong::&boy(DontFCKingmentionMe but why ?
+[23:12:17] [sponges#9409] no
+[23:12:20] [Minn#6688] I bet scotland is super pissed
+[23:12:25] [Connor68989#2359] its ffmpeg and ffprobe i need, right?
+[23:12:31] [Minn#6688] and youtube-dl
+[23:12:32] [Crowdhopper#2459] Yea
+[23:12:37] [sponges#9409] y everyone just mention me
+[23:12:40] [giggybyte#8273] dude just use *reverse psychology!!!* don't wanna be mentioned? say the following:
+[23:12:43] [acdenisSK ? ?#5503] utlizing two things makes code just ?? ?
+[23:12:44] [giggybyte#8273] please mention me
+[23:12:46] [Fuyu#0588] everyone mention me
+[23:12:48] [gdude2002#5318] @<spong::&boy(DontFCKingmentionMe <https://gilvasunner.bandcamp.com/track/the-route-sandstorm>
+[23:12:51] [Fuyu#0588] @giggybyte
+[23:12:58] [sponges#9409] @at-spi-bus-launcher fukayoudesu
+[23:12:58] [Lord Ptolemy#0768] @at-spi-bus-launcher *mentions*
+[23:12:58] [Minn#6688] I have all of that in my path now
+[23:12:59] [gdude2002#5318] @giggybyte @at-spi-bus-launcher
+[23:13:01] [Minn#6688] gg
+[23:13:04] [Connor68989#2359] anyone got a link for youtube-dl? or should i just ggoogle it
+[23:13:06] [giggybyte#8273] well damn
+[23:13:06] [Fuyu#0588] wew lad
+[23:13:11] [Fuyu#0588] that didnt work
+[23:13:12] [?? PikaPi ??#5870] @at-spi-bus-launcher
+[23:13:14] [Minn#6688] .g youtube-dl download
+[23:13:15] [??#9976] is that sublimetext
+[23:13:20] [Minn#6688] get the script one
+[23:13:22] [Minn#6688] not exe
+[23:13:23] [acdenisSK ? ?#5503] no
+[23:13:26] [acdenisSK ? ?#5503] visual studio code
+[23:13:33] [Fuyu#0588] pls
+[23:13:35] [??#9976] it works with js? o.O
+[23:13:40] [sponges#9409] i like "The Route Sandstorm"
+[23:13:43] [Minn#6688] https://yt-dl.org/downloads/2016.07.02/youtube-dl this one
+[23:13:44] [Fuyu#0588] hhh
+[23:13:47] [acdenisSK ? ?#5503] it was made with electron
+[23:13:49] [Fuyu#0588] why is this in my process table
+[23:14:02] [??#9976] tru tru
+[23:14:06] [Connor68989#2359] oh rip, it was already in my downloads xD
+[23:14:10] [Archangelx#4259] My computer over heats when I charge it. I put ice under it and it melts the ice in like 10 minutes...
+[23:14:17] [Fuyu#0588] try not charging it
+[23:14:27] [Archangelx#4259] but low battery .-.

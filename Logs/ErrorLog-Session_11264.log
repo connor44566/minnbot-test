@@ -1,0 +1,7 @@
+<-!-Error-Logs-->
+[23:14:37] ThreadDeath: null
+	java.lang.Thread.stop(Unknown Source)
+	minn.minnbot.manager.PlayingFieldManager.breakThread(PlayingFieldManager.java:101)
+	minn.minnbot.manager.PlayingFieldManager.init(PlayingFieldManager.java:64)
+	minn.minnbot.MinnBot.initCommands(MinnBot.java:205)
+	minn.minnbot.MinnBot.lambda$0(MinnBot.java:77)
